@@ -1,6 +1,7 @@
 # HastebinPost
 
 Simple API for publishing text to hastebin.in
+Required Gson
 
 Publishing text is easy, just use
 postText("Example");
